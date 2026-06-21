@@ -60,7 +60,7 @@ export default function App() {
   return (
     <div className={darkMode ? "app dark" : "app"}>
       <div className="container">
-        <h1>🚀 Smart Study Planner Pro</h1>
+        <h1> Smart Study Planner </h1>
         <p className="quote">
           “Small daily improvements lead to stunning results.”
         </p>
